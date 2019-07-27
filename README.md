@@ -121,3 +121,10 @@ Satellites’ positions can be projected into the images through Projection matr
 <div align="center">
 	<img src="/doc/finalres.png" alt="finalres" width="800" title="finalres"/>
 </div>
+
+--- 
+ by: Alireza Ahmadi                                     
+ University of Bonn- Robotics & Geodetic Engineering
+ 
+ Alireza.Ahmadi@uni-bonn.de                             
+ [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
