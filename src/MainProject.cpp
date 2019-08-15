@@ -1,3 +1,9 @@
+/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% by: Alireza Ahmadi                                     %
+% University of Bonn- MSc Robotics & Geodetic Engineering%
+% Alireza.Ahmadi@uni-bonn.de                             %
+% AlirezaAhmadi.xyz                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
 #include "opencv2/imgproc.hpp"
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/highgui.hpp"
