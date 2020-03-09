@@ -59,7 +59,7 @@ The Next step would be finding the most top edges of buildings in the scene and 
 </div>
 
 ### Step5: Morphological Operators(Dilation and Erosion)
-Morphological transformations are some simple operations based on the image shape.
+Morphological transformations are some simple operations used to modify extracted feature from image like:
 
 <div align="center">
 	<img src="/doc/morph.png" alt="morph" width="400" title="morph"/>
